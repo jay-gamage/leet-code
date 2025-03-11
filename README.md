@@ -1,2 +1,2 @@
 # leet-code
-Repository contains solutions for LeetCode challenge questions
+Repository contains solutions for LeetCode challenge questions.
